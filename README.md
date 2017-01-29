@@ -14,3 +14,5 @@ Hash/CRC32计算器
 可以计算字符串的Hash/CRC32，也可以及时文件的Hash/CRC32
 
 计算结果的字母可以选择大写或小写
+
+![屏幕示例图片](https://github.com/goodfrd/HashCalc/blob/master/HashCalc.png)
